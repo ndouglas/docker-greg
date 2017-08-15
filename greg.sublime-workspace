@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"example",
+				"exampleSlackUnfurlRequest"
+			],
+			[
+				"backend",
+				"BACKEND_SERVER_HOST"
+			],
+			[
+				"permi",
+				"permitsFreeRepeatViewings"
+			],
+			[
+				"BJT_COMPOSER",
+				"BJT_COMPOSER_VENDOR_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nathan/Projects/docker-greg"
+	],
+	"file_history":
+	[
+		"/Users/nathan/Projects/docker-greg/greg",
+		"/Users/nathan/Projects/cnc-metrics/modules/drupal/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/drupal/package.json",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/drupal-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/drupal-bjtonline-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/drupal/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/drupal-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/drupal-ainonline-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/app/node_modules/@cnc/drupal/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/app-annie/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-db-adobe_dps.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/app-annie.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/app-annie/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/app-annie-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/scripts/library.sh",
+		"/Users/nathan/Projects/cnc-metrics/scripts/deploy.sh",
+		"/Users/nathan/Projects/cnc-metrics/scripts/run_app.sh",
+		"/Users/nathan/Projects/cnc-metrics/modules/app-annie/package.json",
+		"/Users/nathan/Projects/cnc-metrics/modules/brightcove/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/brightcove.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/brightcove-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/brightcove/package.json",
+		"/Users/nathan/Projects/cnc-metrics/modules/brightcove/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/brightcove-monthly.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/rebuild-brightcove.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/lib.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/google-sheets/lib/lib.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/agents/twixl.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/scripts/release-feature.sh",
+		"/Users/nathan/Projects/cnc-metrics/app/cnc-metrics.env",
+		"/Users/nathan/Projects/cnc-metrics/modules/youtube/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/youtube.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/youtube.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/youtube/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/youtube-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/yt-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/Dockerfile",
+		"/Users/nathan/Projects/cnc-metrics/cnc-metrics.env",
+		"/Users/nathan/Projects/cnc-metrics/modules/google-analytics/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/ga-rebuild.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/google-analytics/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/google-sheets/test/tests.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-ainonline-app.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/google-analytics/package.json",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/ga-stats.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/google-analytics/test/token.json",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/google-sheets.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-ainonline-amp.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-bjtonline-aircraft-directory-aircraft.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-bjtonline-aircraft-directory.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-bjtonline-amp.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-bjtonline-yellow-pages.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/google-analytics-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/oauth-verify.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/google-analytics.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/version.js",
+		"/Users/nathan/Projects/cnc-metrics/scripts/run_function.sh",
+		"/Users/nathan/Projects/cnc-metrics/scripts/aws.sh",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/ga-path.js",
+		"/Users/nathan/Projects/cnc-metrics/scripts/docker_build_staging.sh",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-ainonline-app.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-ainonline-amp.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/facebook.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/drupal-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/drupal-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/brightcove-weekly.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/brightcove-monthly.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/app-annie.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/linkedin.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-bjtonline-yellow-pages.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-bjtonline-amp.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-bjtonline-aircraft-directory.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/google-analytics-bjtonline-aircraft-directory-aircraft.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/rsync-acquia-files.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/youtube.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/twixl.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/twitter-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/twitter-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/rsync-acquia-files.js",
+		"/Users/nathan/Projects/cnc-metrics/app/server.js",
+		"/Users/nathan/Projects/cnc-metrics/app/package.json",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/package.json",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-prod_support.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-fbo_survey_last_year.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-fbo_survey.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-fbo.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-bjt_multi.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-ain_misc.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/cron/archive-current-backup-db-adobe_dps.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-db-prod_support.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-db-fbo_survey_last_year.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-db-fbo_survey.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-db-fbo.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-db-ain_misc.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/purge-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/purge-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/create-backup-drupal-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/create-backup-drupal-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/node_modules/@cnc/linkedin/lib/agent.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/agents/acquia.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-drupal-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/archive-current-backup-drupal-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/acquia.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/lib/aws.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/commands/acquia.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/README.md",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/library.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/acquia/lib/lib.js",
+		"/Users/nathan/Projects/cnc-metrics/scripts/docker_build_prod.sh",
+		"/Users/nathan/Projects/cnc-metrics/modules/unfurling/lib/lib.js",
+		"/Users/nathan/Projects/cnc-metrics/modules/slack/lib/unfurling.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/unfurlers/tenesmus.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/unfurlers/example.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/twixl.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/twitter-bjtonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/twitter-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/linkedin.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/tasks/facebook.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/unfurlers/ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/agents/drupal-ainonline.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/agents/app-annie.js",
+		"/Users/nathan/Projects/cnc-metrics/app/lib/agents/brightcove.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/nathan/Projects/ain_vagrant/ainonline/docroot/sites",
+			"/Users/nathan/Projects/ain_vagrant/ainonline/docroot/sites/all/modules/webform,/Users/nathan/Projects/ain_vagrant/ainonline/docroot/sites/all/modules/webform_rules",
+			"/Users/nathan/Projects/ain_vagrant/ainonline/",
+			"/Users/nathan/Projects/ain_vagrant/ainonline/docroot/sites/bjtonline.com/modules/aircraft_data",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"httpErrors",
+			"testChannelId",
+			".get",
+			"purge",
+			"async.retry",
+			"_in",
+			"googleapis",
+			"') ",
+			"SLACK_CHANNEL",
+			"mrk",
+			"urlMod",
+			"url",
+			"mustache",
+			"mpur",
+			"handl",
+			"unfurl",
+			"unfurling handler",
+			"an unfurling handler",
+			"registerUnfurlingHandler",
+			"cncUnfurling",
+			"_urlPMRoutes",
+			"cncMUPR",
+			"cncUrlPM",
+			"cncUnfurling",
+			"blackpool",
+			"router",
+			"files",
+			"loadTemplates(",
+			"render",
+			"nonFreeViewings",
+			"isFreeViewing",
+			"ui-widget",
+			"bjt-bkgrnd",
+			"dialog",
+			"valid",
+			"logged_in",
+			"pagination",
+			"clickCompare",
+			"acd-compare",
+			"transform",
+			";\n",
+			"acd-compare",
+			"NA",
+			"NOT_PROVIDED",
+			"NOT_PROVIED",
+			"theme_",
+			"username_title",
+			"theme_lt",
+			"e-mail address",
+			"username or e-mail address",
+			"username or email address",
+			"bjt-teaser",
+			"==",
+			">>>",
+			"bjt-aircraft-directory",
+			"bjt-aircraft-directory-homepage-search-form",
+			"source-sans-pro",
+			"bjt-sans",
+			"search",
+			"pagination",
+			"arrow",
+			"homepage_aircraft_search_",
+			"compare(",
+			"fixColorboxColumns",
+			"fixColorboxColumns(",
+			"KM Additional",
+			"KM Additional Data Fields",
+			"metric-toggle",
+			"views-reset-button",
+			"views-submit-button",
+			"edit-reset",
+			"bjtad",
+			"bjtad-",
+			"bjtad",
+			"Pages",
+			"max",
+			"const ",
+			"redirect",
+			"redir",
+			"redirect",
+			"bef_checkbox",
+			"bjt_ga_tokens",
+			"alert",
+			"referrer",
+			"search",
+			"aircraft_data_access_is_free_for_referrers",
+			"free",
+			"admin_form",
+			"premium",
+			"bjtacd-icon",
+			"_drush_find_commandfiles",
+			"devel_enable",
+			"status",
+			"weight",
+			"image_path_",
+			"image_path_flush",
+			"flush",
+			"image_path_flush",
+			"image_file_move",
+			"image_file_delete",
+			"image_path_flush",
+			"image_style_form",
+			"image_scale_form",
+			"['currently']['computed']",
+			"$productionVariable['currently']['computed']",
+			"Helicopter",
+			".form-item label",
+			"pantheonapachesolrservice",
+			"apachesolrservice",
+			"pantheon"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mupr",
+			"route",
+			"a route",
+			"registerRoute",
+			"cncMupr",
+			"_mpurRoutes",
+			"cncMupr",
+			"cncMUPR",
+			"cncUrlPM",
+			"downdelving",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Dockerfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "greg.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 773.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 422.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
